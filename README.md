@@ -85,7 +85,11 @@ After this test I was quite interested in the RGB bulb so I tried doing the code
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94919976/143147440-1f4fddee-5bc7-4fd0-b559-372d5e3b9dff.png">
 
-This circuit involved a lot of 
+This circuit involved a lot of coding to control all three photoresistors and change the colour of the RGB bulb accordingly.
+
+<img width="500" alt="Screen Shot 2021-11-24 at 4 05 28 PM" src="https://user-images.githubusercontent.com/94919976/143273475-96bb4a46-1223-40d9-87db-114d164d51bf.png">
+
+I spent a long time on fixing the code and testing it, but at the end I still failed to get the lights to change colours. Even though my experimentation was not successful, through the process of writing and trying to run the code I was able to learn more about the basic structure of code.
 
         |
      \ ,-. /
@@ -93,3 +97,7 @@ This circuit involved a lot of
        \ /
       _|=|_            
 
+
+**Reflection**
+
+My week in exploring creative computing was very insightful. As someone who has no prior knowledge on this medium I learnt a lot more about what creative computing is and what it can be. Though I still worked with some of the most conventional things in computing (coding, circuits etc.) through resarch I was still able to look at how different designers use creative computing to create interesting projects, debunking my original impression of computing being boring and full of code. However though I have explored more about this field, I have to admit that I am still not too interested in creative computing. I acknolwedge that it is useful to have a basic understanding of computing and code to work with design but I think this field is not one that really suits me. 
