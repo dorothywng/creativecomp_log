@@ -81,6 +81,12 @@ I used block code to programe the "animation speed" of the LED bulbs, allowing t
 
 Testing the circuit with RGB bulb and coding it to change colours in a repeating pattern.
 
+After this test I was quite interested in the RGB bulb so I tried doing the code writing circuit project for making a colour mixing lamp. 
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/94919976/143147440-1f4fddee-5bc7-4fd0-b559-372d5e3b9dff.png">
+
+This circuit involved a lot of 
+
         |
      \ ,-. /
     – (   ) - 
